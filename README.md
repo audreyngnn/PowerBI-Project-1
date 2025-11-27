@@ -1,4 +1,4 @@
-# UN SDG 7: Global Energy Story Dashboard
+# UN SDG 7: Global Energy Story Dashboard ✧˖°.
 
 A comprehensive Power BI dashboard analyzing global progress toward Sustainable Development Goal 7 (Affordable and Clean Energy) from 2000 to 2022.
 
