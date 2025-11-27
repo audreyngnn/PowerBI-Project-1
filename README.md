@@ -92,6 +92,6 @@ United Nations Sustainable Development Goals database and related energy statist
 - Country-specific deep-dive reports
 - Real-time data updates
 
----
+<br>
 
 *This project supports the UN's mission to ensure access to affordable, reliable, sustainable, and modern energy for all by 2030.*
